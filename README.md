@@ -1,6 +1,7 @@
 # Yashasvi Krishna - Portfolio
 
-!(/home/cselab3/Downloads/pngtree-coder-clipart-boy-working-with-computer-game-on-the-desk-vector-png-image_11072679.png)
+![pngtree-coder-clipart-boy-working-with-computer-game-on-the-desk-vector-png-image_11072679](https://github.com/user-attachments/assets/055c9044-75ba-4be7-a407-3bb485de8834)
+
 
 Welcome to my personal portfolio! I'm a Computer Science student with a passion for coding, problem-solving, and creating impactful software solutions. Below you'll find information about me, my skills, and my projects.
 
