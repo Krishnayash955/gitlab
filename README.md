@@ -22,7 +22,7 @@ I'm currently pursuing a **Bachelor's degree in Computer Science** at MSRIT. I a
 
 Here are some of my key projects that I've worked on:
 
-### 1. [Project 1 Name](https://github.com/Krishnayash955/project)
+### 1. [Interactive Quiz Game](https://github.com/Krishnayash955/project)
 A brief description of your first project. This project is about an interactive quiz game. It uses html,css,js.
 
 **Technologies Used**: HTML, CSS, JavaScript
