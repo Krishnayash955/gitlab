@@ -1,5 +1,5 @@
 # Yashasvi Krishna - Portfolio
-![https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLvP8GLLrieb_k9FWcDyW_qh-aG688dOG-3A&s]
+!(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLvP8GLLrieb_k9FWcDyW_qh-aG688dOG-3A&s)
 Welcome to my personal portfolio! I'm a Computer Science student with a passion for coding, problem-solving, and creating impactful software solutions. Below you'll find information about me, my skills, and my projects.
 
 ---
