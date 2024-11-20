@@ -1,6 +1,6 @@
 # Yashasvi Krishna - Portfolio
 
-!([https://i0.wp.com/codeofcode.org/wp-content/uploads/2023/01/Learn-DSA-with-Java-Image.jpeg?fit=1108%2C832&ssl=1](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5SQntNi68ASSiKFpRVzQOMfJCx5aYevH69w&s))
+!(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5SQntNi68ASSiKFpRVzQOMfJCx5aYevH69w&s)
 
 Welcome to my personal portfolio! I'm a Computer Science student with a passion for coding, problem-solving, and creating impactful software solutions. Below you'll find information about me, my skills, and my projects.
 
